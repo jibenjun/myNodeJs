@@ -1,8 +1,8 @@
-var fs = require('fs');
+/* var fs = require('fs');
 var data = fs.readFileSync('input.txt');
 console.log(data.toString());
 console.log("程序结束!");
-
+ */
 
 /* var fs = require('fs');
 fs.readFile("input.txt", function (err, data) {
